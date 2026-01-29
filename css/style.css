@@ -18,7 +18,8 @@ main {
 }
 @media (width < 768px) {
   .separador {
-   border-style: solid;
+   padding: 10px;
+    border-style: solid;
    border-width: 4px;
      border-top-color: black !important; 
     border-bottom-color: black !important; 

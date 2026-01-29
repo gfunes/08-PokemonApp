@@ -1,0 +1,8 @@
+body {
+  display: flex;
+  flex-direction: column; /* Apila los elementos verticalmente */
+  min-height: 100vh; /* Altura mínima del viewport */
+}
+main {
+  flex: 1; /* Hace que el contenido principal ocupe todo el espacio restante */
+}

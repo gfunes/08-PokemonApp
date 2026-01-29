@@ -6,3 +6,24 @@ body {
 main {
   flex: 1; /* Hace que el contenido principal ocupe todo el espacio restante */
 }
+@media (width >=768px) {
+  .separador {
+    border-style: solid;
+   border-width: 4px;
+     border-left-color: black !important; 
+    border-right-color: black !important; 
+    border-top-style: none;
+    border-bottom-style: none;
+  }
+}
+@media (width < 768px) {
+  .separador {
+   border-style: solid;
+   border-width: 4px;
+     border-top-color: black !important; 
+    border-bottom-color: black !important; 
+    border-left-style: none;
+    border-right-style: none;
+    
+  }
+}

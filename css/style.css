@@ -42,7 +42,7 @@ color: #919191
 ;
 }
 .poison{
-padding: 3px;
+padding: 3px 30px 3px 30px;
 margin: 5px;
     border-style: solid;
    border-width: 4px;
@@ -50,7 +50,7 @@ margin: 5px;
 color: white;
 }
 .bug{
-    padding: 3px;
+    padding: 3px 40px 3px 40px;
     margin: 5px;
     border-style: solid;
    border-width: 4px;
@@ -59,11 +59,30 @@ color:white;
 
 }
 .water{
-    padding: 3px;
+    padding: 3px 30px 3px 30px;
+    
     margin: 5px;
     border-style: solid;
    border-width: 4px;
 background-color: #2f85e7;
+color:white;
+
+}
+.grass{
+    padding: 3px 40px 3px 40px;
+    margin: 5px;
+    border-style: solid;
+   border-width: 4px;
+background-color: #68d864;
+color:white;
+
+}
+.fire{
+    padding: 3px 40px 3px 40px;
+    margin: 5px;
+    border-style: solid;
+   border-width: 4px;
+background-color: #ec933f;
 color:white;
 
 }

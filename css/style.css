@@ -42,17 +42,28 @@ color: #919191
 ;
 }
 .poison{
-padding: 5px;
+padding: 3px;
+margin: 5px;
     border-style: solid;
    border-width: 4px;
     background-color: pink;
 color: white;
 }
 .bug{
-    padding: 5px;
+    padding: 3px;
+    margin: 5px;
     border-style: solid;
    border-width: 4px;
 background-color: #68d864;
+color:white;
+
+}
+.water{
+    padding: 3px;
+    margin: 5px;
+    border-style: solid;
+   border-width: 4px;
+background-color: #2f85e7;
 color:white;
 
 }

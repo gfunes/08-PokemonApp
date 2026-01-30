@@ -41,3 +41,18 @@ background-color: #68d864 !important;
 color: #919191
 ;
 }
+.poison{
+padding: 5px;
+    border-style: solid;
+   border-width: 4px;
+    background-color: pink;
+color: white;
+}
+.bug{
+    padding: 5px;
+    border-style: solid;
+   border-width: 4px;
+background-color: #68d864;
+color:white;
+
+}

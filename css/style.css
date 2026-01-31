@@ -86,3 +86,10 @@ background-color: #ec933f;
 color:white;
 
 }
+.parrafo{
+text-align: justify;
+color: #919191;
+}
+.centrar{
+align-items: center !important;
+}
